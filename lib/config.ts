@@ -1,0 +1,1 @@
+export const SITE={name:'Municx Technology',title:'Municx Technology — Software Intelligence',description:'Deep-tech software blending science, code, and human design.',url:'https://municxsystems.com',ogImage:'/og-image.png'};

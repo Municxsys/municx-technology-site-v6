@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Administrator/Documents/municx-technology-site-v6/app/contact/page.tsx"],"sourcesContent":["import Container from '@/components/Container';export default function ContactPage(){return(<Container><h1 className='mt-14 text-3xl font-semibold'>Contact</h1><p className='mt-2 text-white/70'>Sales & partnerships.</p><div className='glass mt-6 p-6'><p className='text-sm'>Email: <a className='underline' href='mailto:contact@municxsystems.com'>contact@municxsystems.com</a></p><p className='text-sm mt-2'>Support: <a className='underline' href='mailto:support@municxsystems.com'>support@municxsystems.com</a></p></div></Container>);}"],"names":[],"mappings":";;;;;AAAA;;;AAA8D,SAAS;IAAc,qBAAO,8OAAC,mIAAS;;0BAAC,8OAAC;gBAAG,WAAU;0BAA+B;;;;;;0BAAY,8OAAC;gBAAE,WAAU;0BAAqB;;;;;;0BAAyB,8OAAC;gBAAI,WAAU;;kCAAiB,8OAAC;wBAAE,WAAU;;4BAAU;0CAAO,8OAAC;gCAAE,WAAU;gCAAY,MAAK;0CAAmC;;;;;;;;;;;;kCAAiC,8OAAC;wBAAE,WAAU;;4BAAe;0CAAS,8OAAC;gCAAE,WAAU;gCAAY,MAAK;0CAAmC;;;;;;;;;;;;;;;;;;;;;;;;AAAqD","debugId":null}}]
+}

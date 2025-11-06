@@ -1,0 +1,1 @@
+export function generateLicense(t:'LITE'|'PRO'|'ENT'){const r=()=>Math.random().toString(36).toUpperCase().replace(/[^A-Z0-9]/g,'').slice(0,4);return`MXSUITE-${t}-${r()}-${r()}-${r()}`;}

@@ -1,0 +1,1 @@
+import Container from '@/components/Container';export default function ProductsPage(){return(<Container><h1 className='mt-14 text-3xl font-semibold'>Products</h1><p className='mt-2 text-white/70'>Municx Suite — available in Lite, Pro and Enterprise.</p></Container>);}

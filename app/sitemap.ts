@@ -1,0 +1,1 @@
+export default async function sitemap(){const u='https://municxsystems.com';const m=new Date().toISOString();return[{url:u,lastModified:m},{url:u+'/products',lastModified:m},{url:u+'/products/municx-suite',lastModified:m},{url:u+'/vision',lastModified:m},{url:u+'/contact',lastModified:m}];}
